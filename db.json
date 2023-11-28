@@ -1,22 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan (Actualizado)",
-      "empresa": "Codigo Con Juan",
-      "email": "juan@juan.com",
-      "telefono": "102013313",
-      "notas": "Nueva Nota",
-      "id": 1
-    },
-    {
-      "nombre": "Karen",
-      "empresa": "Codigo Con Juan",
-      "email": "karen_nuevo@juan.com",
-      "telefono": "138198313",
-      "notas": "Karen desea una REST API",
-      "id": 2
-    },
-    {
       "id": 4,
       "nombre": "Miguel",
       "telefono": 319381983,
@@ -39,11 +23,11 @@
       "id": 6
     },
     {
-      "nombre": "esmir",
+      "nombre": "esmir2",
       "empresa": "inatec",
       "email": "esmir@esmir.com",
       "telefono": "544",
-      "notas": "hola",
+      "notas": "hola2",
       "id": 7
     }
   ]
